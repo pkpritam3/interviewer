@@ -1,0 +1,30 @@
+[
+  {
+    "id": "DSA012",
+    "title": "Maximum Subarray",
+    "topic": "Arrays",
+    "difficulty": "Medium",
+    "problem": "Find the contiguous subarray with the largest sum."
+  },
+  {
+    "id": "DSA001",
+    "title": "Two Sum",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "problem": "Given an array of integers and a target, return the indices of the two numbers that add up to the target."
+  },
+  {
+    "id": "DSA002",
+    "title": "Sum of Array",
+    "topic": "Arrays",
+    "difficulty": "Easy",
+    "problem": "Find the sum of the array."
+  },
+  {
+    "id": "DSA007",
+    "title": "Valid Parentheses",
+    "topic": "Stacks",
+    "difficulty": "Easy",
+    "problem": "Determine whether a string of brackets is valid. Every open bracket must be closed by the same type in the correct order."
+  }
+]
